@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "bitcore": "bitpay/bitcore",
+    "node-status": "^0.1.4",
+    "secp256k1": "0.0.13"
+  }
+}
